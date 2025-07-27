@@ -18,22 +18,6 @@ The goal is to uncover patterns and trends that may inform smarter trading strat
 
 ---
 
-## 📂 Project Structure
-
-```bash
-ds_Prathyusha/
-├── notebook_1.ipynb          # Main analysis notebook (Google Colab)
-├── csv_files/                # Cleaned and summary data files
-│   ├── merged_data.csv
-│   └── sentiment_summary.csv
-├── outputs/                  # Visualizations and charts
-│   ├── advanced_trade_count.png
-│   ├── advanced_pnl_distribution.png
-│   ├── advanced_trade_size_boxen.png
-│   ├── advanced_trade_size_hist.png
-│   └── advanced_avg_trade_size_bar.png
-├── ds_report.pdf             # Final report with insights and conclusions
-└── README.md                 # Project documentation (this file)
 ## 📁 Datasets
 
 1. **Historical Trader Data**  
